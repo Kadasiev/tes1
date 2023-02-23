@@ -2,3 +2,5 @@ first change
 change made in github
 
 just added new line
+
+I'm doing this change to check up the git gui
